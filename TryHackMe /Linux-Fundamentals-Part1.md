@@ -57,3 +57,8 @@ operadores shell:
  >    : Operador que redireciona um comando para um arquivo, se o arquivo existir ele sobrescreve.
 
  >>   : Esse operador faz a mesma função do operador, mas adiciona a saída em vez de substituir (ou seja, nada é subscrevido)
+
+
+Conclusão:
+
+Ao concluir este laboratório adquiri conhecimentos básicos sobre utilização do terminal Linux, navegação entre diretórios e gerenciamento de arquivos. Esses conceitos servirão de base para estudos futuros em administração Linux e Cibersegurança. 
