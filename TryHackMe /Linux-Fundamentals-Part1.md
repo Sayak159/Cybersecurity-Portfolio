@@ -6,6 +6,7 @@
 
 # Foi abordado conceitos sobre:
  Sistema de arquivos Linux
+ 
  Shell
  Terminal
  Comandos
