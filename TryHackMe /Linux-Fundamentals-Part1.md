@@ -41,6 +41,7 @@
   Comando:
   
   echo "Olá Mundo"
+  
   Descrição:
   
   Exibe mesagem no terminal ou redireciona a saída para arquivos.
@@ -131,9 +132,9 @@
 
    &&   : Esse operador permite combinar múltiplos comandos em uma única linha
 
-   >    : Operador que redireciona um comando para um arquivo, se o arquivo existir ele sobrescreve.
+   # >    : Operador que redireciona um comando para um arquivo, se o arquivo existir ele sobrescreve.
 
-   >>   : Esse operador faz a mesma função do operador, mas adiciona a saída em vez de substituir (ou seja, nada é subscrevido)
+   # >>   : Esse operador faz a mesma função do operador, mas adiciona a saída em vez de substituir (ou seja, nada é subscrevido)
 
 
 # Conclusão:
