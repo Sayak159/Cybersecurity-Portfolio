@@ -3,11 +3,10 @@
 objetivo:
  Esse laboratório tem como intuito de familiarizar com os conceitos mais básicos do Linux e seus comandos, tais bases são fundamentais para qualquer profissional em desenvolvimento para navegar entre os diretorios e arquivos atraves de comandos pelo terminal.
 
- Foi abordado conceitos sobre:
- 
-  Terminal
-  Comandos
-  Opreadores de Shell
+Foi abordado conceitos sobre:
+ Terminal
+ Comandos
+ Opreadores de Shell
 
 Ferramentas utilizadas:
 
