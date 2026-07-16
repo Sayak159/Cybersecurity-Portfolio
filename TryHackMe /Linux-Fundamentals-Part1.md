@@ -5,17 +5,33 @@
 
 
 # Foi abordado conceitos sobre:
-   Terminal
-   Comandos
-   Opreadores de Shell
+  Sistema de arquivos Linux
+  Shell
+  Terminal
+  Comandos
+  Diretórios
+  Arquivos
+  Navegação
+  Operadores Shell
+  Caminhos absolutos
+  Caminhos relativos
 
 # Ferramentas utilizadas:
    Linux
    Terminal
+   Bash
+   TryHackMe
 
 
 # Comandos executados:
 
+# echo
+  Comando:
+  echo "Olá Mundo"
+  Descrição:
+  Exibe mesagem no terminal ou redireciona a saída para arquivos.
+
+   
    echo  : O comando echo é um dos comandos mais básicos e úteis do Linux. Ele serve principalmente para exibir mensagens na tela ou escrever conteúdo em arquivos.
 
    <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/echo.png?raw=true" width="500" >
