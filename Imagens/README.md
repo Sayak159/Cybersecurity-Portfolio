@@ -3,4 +3,4 @@
 Esta pasta armazena as imagens utilizadas na documentação do projeto.
 
 
-![Terminal Linux](images/cat.png)
+![Cat](images/cat.png)
