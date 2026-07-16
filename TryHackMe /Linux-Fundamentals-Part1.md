@@ -8,19 +8,30 @@
  Sistema de arquivos Linux
  
  Shell
+ 
  Terminal
+ 
  Comandos
+ 
  Diretórios
+ 
   Arquivos
+  
   Navegação
+  
   Operadores Shell
+  
   Caminhos absolutos
+  
   Caminhos relativos
 
 # Ferramentas utilizadas:
   Linux
+  
   Terminal
+  
   Bash
+  
   TryHackMe
 
 
