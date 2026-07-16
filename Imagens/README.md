@@ -7,4 +7,4 @@ Esta pasta armazena as imagens utilizadas na documentação do projeto.
 
 https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/cat.png?raw=true
 
-<img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/cat.png?raw=true" width="300" >
+<img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/cat.png?raw=true" width="600" >
