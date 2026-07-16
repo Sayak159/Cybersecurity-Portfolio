@@ -17,10 +17,10 @@
   Caminhos relativos
 
 # Ferramentas utilizadas:
-   Linux
-   Terminal
-   Bash
-   TryHackMe
+  Linux
+  Terminal
+  Bash
+  TryHackMe
 
 
 # Comandos executados:
@@ -31,17 +31,23 @@
   Descrição:
   Exibe mesagem no terminal ou redireciona a saída para arquivos.
 
+  <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/echo.png?raw=true" width="500" >
+
+ # whoami 
+   Comando:
+   whoami
+   Descrição:
+   Mostra qual usuário está executando a sessão atual
    
-   echo  : O comando echo é um dos comandos mais básicos e úteis do Linux. Ele serve principalmente para exibir mensagens na tela ou escrever conteúdo em arquivos.
-
-   <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/echo.png?raw=true" width="500" >
-
-   whoami : O comando whoami serve para mostrar qual usuário está executando a sessão atual.
-
    <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/whoami.png?raw=true" width="500" >
 
-   ls     : Comando que faz a listagem dos arquivos e pastas de um diretório.
+ # ls     : Comando que 
+   Comando:
+   ls
+   Descrição:
+   Faz a listagem dos arquivos e pastas de um diretório.
 
+   
    <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/ls.png?raw=true" width="500" >
 
    cd     : Um dos comando mais importantes do Linux, permite navegar entre diretórios do sistema de arquivos.
