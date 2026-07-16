@@ -128,13 +128,17 @@
 
 # Operadores shell:
 
-   &    : Esse operador permite a execução de comando em segundo plano do terminal.
+  # & 
+  Esse operador permite a execução de comando em segundo plano do terminal.
 
-   &&   : Esse operador permite combinar múltiplos comandos em uma única linha
+  # &&  
+  Esse operador permite combinar múltiplos comandos em uma única linha
 
-   # >    : Operador que redireciona um comando para um arquivo, se o arquivo existir ele sobrescreve.
+  # >  
+  Operador que redireciona um comando para um arquivo, se o arquivo existir ele sobrescreve.
 
-   # >>   : Esse operador faz a mesma função do operador, mas adiciona a saída em vez de substituir (ou seja, nada é subscrevido)
+  # >>   
+  Esse operador faz a mesma função do operador, mas adiciona a saída em vez de substituir (ou seja, nada é subscrevido)
 
 
 # Conclusão:
