@@ -5,11 +5,11 @@
 
 
 # Foi abordado conceitos sobre:
-  Sistema de arquivos Linux
-  Shell
-  Terminal
-  Comandos
-  Diretórios
+ Sistema de arquivos Linux
+ Shell
+ Terminal
+ Comandos
+ Diretórios
   Arquivos
   Navegação
   Operadores Shell
