@@ -43,7 +43,7 @@ Comandos executados:
 
  grep   : É um comando utilizado para realizar buscas de palavras, frases ou padrões dentro de arquivos de texto, diferente do comando find que realiza buscas arquivos e diretórios.
 
- <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/grep.png?raw=true" width="500" >
+ <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/grep.png?raw=true" width="900" >
 
 operadores shell:
 
