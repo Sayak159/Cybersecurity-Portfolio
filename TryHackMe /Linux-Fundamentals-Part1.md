@@ -13,6 +13,7 @@ Ferramentas utilizadas:
   Terminal
 
 Comandos executados:
+
  echo  : O comando echo é um dos comandos mais básicos e úteis do Linux. Ele serve principalmente para exibir mensagens na tela ou escrever conteúdo em arquivos.
 
  <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/echo.png?raw=true" width="500" >
