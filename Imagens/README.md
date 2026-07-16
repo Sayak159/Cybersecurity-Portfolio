@@ -3,4 +3,6 @@
 Esta pasta armazena as imagens utilizadas na documentação do projeto.
 
 
-![Cat](images/cat.png)
+![Cat](Images/cat.png)
+
+https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/cat.png?raw=true
