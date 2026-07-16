@@ -116,7 +116,7 @@
    
    <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/find.png?raw=true" width="500" >
 
- # grep   : É um comando utilizado para 
+ # grep  
 
   Comando:
 
