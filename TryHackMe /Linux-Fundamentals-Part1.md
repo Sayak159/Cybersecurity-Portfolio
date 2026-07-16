@@ -40,11 +40,13 @@
 # echo
   Comando:
   
-  echo "Olá Mundo"
+  echo Hello
+
+  echo "Hello Friend"
   
   Descrição:
   
-  Exibe mesagem no terminal ou redireciona a saída para arquivos.
+  Exibe mesagem no terminal ou redireciona a saída para arquivos,se houver mais de um espaço deve se usar aspas. 
 
   <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/echo.png?raw=true" width="500" >
 
