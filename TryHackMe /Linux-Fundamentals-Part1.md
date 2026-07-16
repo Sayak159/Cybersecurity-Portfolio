@@ -22,6 +22,11 @@ Comandos executados:
  cd     : Um dos comando mais importantes do Linux, permite navegar entre diretórios do sistema de arquivos.
 
  cat    : Comando utilizado principalmente para as funções de ler, exibir e concatenar arquivos de texto
+ <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/cat.png?raw=true" width="600" >
+
+
+
+
 
  pwd    : Comando utilizado para mostrar em qual diretório se encontra no momento
 
