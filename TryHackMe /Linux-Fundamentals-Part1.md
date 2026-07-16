@@ -39,47 +39,90 @@
 
 # echo
   Comando:
+  
   echo "Olá Mundo"
   Descrição:
+  
   Exibe mesagem no terminal ou redireciona a saída para arquivos.
 
   <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/echo.png?raw=true" width="500" >
 
  # whoami 
    Comando:
+   
    whoami
+   
    Descrição:
+   
    Mostra qual usuário está executando a sessão atual
    
    <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/whoami.png?raw=true" width="500" >
 
- # ls     : Comando que 
+ # ls 
    Comando:
+   
    ls
+   
    Descrição:
+   
    Faz a listagem dos arquivos e pastas de um diretório.
 
-   
    <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/ls.png?raw=true" width="500" >
 
-   cd     : Um dos comando mais importantes do Linux, permite navegar entre diretórios do sistema de arquivos.
+ # cd  
+   Comando:
 
+   cd
+
+   Descrição:
+
+   Permite navegar entre diretórios do sistema de arquivos.
+   
    <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/cd.png?raw=true" width="500" >
 
-   cat    : Comando utilizado principalmente para as funções de ler, exibir e concatenar arquivos de texto
- 
+ # cat    
+   Comando:
+
+   cat
+
+   Descrição:
+
+   utilizado principalmente para as funções de ler, exibir e concatenar arquivos de texto
+   
    <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/cat.png?raw=true" width="500" >
 
-   pwd    : Comando utilizado para mostrar em qual diretório se encontra no momento
+ # pwd  
+   Comando:
 
+   pwd
+
+   Descrição:
+
+   Mostra em qual diretório se encontra no momento
+   
    <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/pwd.png?raw=true" width="500" >
 
-   find   : Comando utilizado para realizar buscas de arquivos e diretórios no sistema de arquivos, podendo pesquisar por nome, tipo, tamanho, data de modificação, permissões e outros critérios.
+ # find 
+   Comando:
 
+   find
+
+   Descrição:
+
+   Realiza buscas de arquivos e diretórios no sistema de arquivos, podendo pesquisar por nome, tipo, tamanho, data de modificação, permissões e outros critérios.
+   
    <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/find.png?raw=true" width="500" >
 
-   grep   : É um comando utilizado para realizar buscas de palavras, frases ou padrões dentro de arquivos de texto, diferente do comando find que realiza buscas arquivos e diretórios.
+ # grep   : É um comando utilizado para 
 
+  Comando:
+
+  grep
+ 
+  Descrição:
+
+  Realizar buscas de palavras, frases ou padrões dentro de arquivos de texto, diferente do comando find que realiza buscas de arquivos e diretórios.
+  
    <img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/grep.png?raw=true" width="1300" >
 
 # Operadores shell:
