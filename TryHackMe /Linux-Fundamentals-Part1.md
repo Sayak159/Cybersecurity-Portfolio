@@ -75,7 +75,7 @@
  # cd  
    Comando:
 
-   cd
+   cd folder1
 
    Descrição:
 
@@ -86,7 +86,7 @@
  # cat    
    Comando:
 
-   cat
+   cat note.txt
 
    Descrição:
 
@@ -108,7 +108,7 @@
  # find 
    Comando:
 
-   find
+   find -name note.txt
 
    Descrição:
 
@@ -120,7 +120,7 @@
 
   Comando:
 
-  grep
+  grep "THM*" access.log
  
   Descrição:
 
