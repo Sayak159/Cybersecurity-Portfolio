@@ -145,7 +145,11 @@
   # >>   
   Esse operador faz a mesma função do operador, mas adiciona a saída em vez de substituir (ou seja, nada é subscrevido)
   
+## O que aprendi
 
+Neste laboratório compreendi como navegar pelo sistema de arquivos Linux utilizando apenas o terminal.
+
+Aprendi também a localizar arquivos, manipular diretórios e utilizar operadores de shell para redirecionamento de saída.
 
 # Conclusão:
 
