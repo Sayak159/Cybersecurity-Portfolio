@@ -24,11 +24,11 @@ Hashcat
 
 # sha256sum
 
-<img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/Hashing%20Basics/sha256sum.png?raw=true" width="900" >
-
 ```
 sha256sum Hashing-Basics/Task-2/passport.jpg
 ```
+
+<img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/Hashing%20Basics/sha256sum.png?raw=true" width="900" >
 
 Descrição: Comando utilizado para identificar e comparar o hash SHA-256 de um arquivo.
 
@@ -46,6 +46,7 @@ Descrição: É um visualizador de arquivos. Permite navegar para cima e para ba
 hashcat -m 3200 -a 0 Hashing-Basics/Task-6/hash1.txt rockyou.txt
 ```
 
+<img src="" width="900" >
 Descrição:
 
 Hashcat: Ferramenta utilizada para auditoria de senhas. Ela calcula o hash de diversas senhas candidatas e compara os resultados com o hash fornecido.
