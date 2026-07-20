@@ -11,5 +11,3 @@ Este repositório é atualizado continuamente conforme concluo novos desafios, d
 # Objetivo deste Portfólio
 
 Demonstrar minha evolução técnica por meio de documentação e projetos reais.
-
-teste
