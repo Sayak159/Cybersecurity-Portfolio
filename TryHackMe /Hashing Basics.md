@@ -23,7 +23,7 @@ Comandos estudados
 sha256sum
 
 ```
-├── sha256sum Hashing-Basics/Task-2/passport.jpg
+sha256sum Hashing-Basics/Task-2/passport.jpg
 ```
 
 sha256sum Hashing-Basics/Task-2/passport.jpg
