@@ -24,6 +24,10 @@ Hashcat
 
 # sha256sum
 
+<img src="https://github.com/Sayak159/Cybersecurity-Portfolio/blob/main/Imagens/Hashing%20Basics/sha256sum.png?raw=true" width="500" >
+
+
+
 ```
 sha256sum Hashing-Basics/Task-2/passport.jpg
 ```
