@@ -7,8 +7,9 @@ O papel do hash em sistemas de autenticação
 Reconhecendo valores de hash armazenados
 Quebra de valores de hash
 O uso do hashing para integridade e proteção
-Pré-requisitos (opcional)
-Conceitos abordados
+
+# Conceitos abordados
+
 Hash
 Algoritmos Hash (MD5, SHA-1, SHA-2, bcrypt)
 Quebra de hash (Hash Cracking)
@@ -20,23 +21,21 @@ TryHackMe
 Hashcat
 Comandos estudados
 
-sha256sum
+# sha256sum
 
 ```
 sha256sum Hashing-Basics/Task-2/passport.jpg
 ```
-
-sha256sum Hashing-Basics/Task-2/passport.jpg
 
 Descrição: Comando utilizado para identificar e comparar o hash SHA-256 de um arquivo.
 
-less
+# less
 
 less rockyou.txt
 
 Descrição: É um visualizador de arquivos. Permite navegar para cima e para baixo, pesquisar palavras e visualizar arquivos grandes sem carregá-los completamente na tela.
 
-Hashcat
+# Hashcat
 
 hashcat -m 3200 -a 0 Hashing-Basics/Task-6/hash1.txt rockyou.txt
 
@@ -48,11 +47,11 @@ Hashcat: Ferramenta utilizada para auditoria de senhas. Ela calcula o hash de di
 Hashing-Basics/Task-6/hash1.txt: Arquivo que contém o hash a ser analisado.
 rockyou.txt: Wordlist utilizada durante o ataque.
 
-Dificuldades encontradas
+# Dificuldades encontradas
 
 Não encontrei dificuldades significativas durante a execução do laboratório. Entretanto, foi necessário aprofundar o estudo dos conceitos de Salt, Rainbow Tables e Wordlists para compreender suas diferenças e aplicações práticas na cibersegurança.
 
-O que aprendi
+# O que aprendi
 
 1. Funções Hash
 
@@ -78,7 +77,7 @@ Compreendi que o salt é um valor aleatório adicionado à senha antes da geraç
 
 Também compreendi que as funções hash são essenciais em diversas atividades da Cibersegurança, como o armazenamento seguro de senhas, verificação da integridade de arquivos, assinaturas digitais e auditorias de segurança.
 
-Aplicação prática
+# Aplicação prática
 
 As funções hash são amplamente utilizadas em ambientes corporativos para:
 
@@ -89,11 +88,11 @@ Distribuição segura de imagens ISO.
 Auditorias de segurança.
 Resposta a incidentes.
 
-Conclusão
+# Conclusão
 
 Este laboratório ampliou meu conhecimento sobre funções hash e sua relevância para a segurança da informação. Além de compreender como os hashes são utilizados para proteger senhas e verificar a integridade de arquivos, também aprendi conceitos importantes como Wordlists, Rainbow Tables, Salt e técnicas de auditoria de hashes. Esse conhecimento servirá como base para estudos mais avançados em autenticação, criptografia e análise de segurança.
 
-Referências
+# Referências
 TryHackMe – Hashing Basics
 
 
