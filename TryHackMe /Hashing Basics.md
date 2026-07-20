@@ -50,9 +50,13 @@ hashcat -m 3200 -a 0 Hashing-Basics/Task-6/hash1.txt rockyou.txt
 Descrição:
 
 Hashcat: Ferramenta utilizada para auditoria de senhas. Ela calcula o hash de diversas senhas candidatas e compara os resultados com o hash fornecido.
+
 -m 3200: O parâmetro -m (mode) informa ao Hashcat qual algoritmo de hash deve ser utilizado.
+
 -a 0: O parâmetro -a (Straight Attack) define como o Hashcat irá gerar as senhas candidatas.
+
 Hashing-Basics/Task-6/hash1.txt: Arquivo que contém o hash a ser analisado.
+
 rockyou.txt: Wordlist utilizada durante o ataque.
 
 # Dificuldades encontradas
