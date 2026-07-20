@@ -1,23 +1,37 @@
 # Hashing Basic
 
 Este laboratório teve como objetivo apresentar os fundamentos das funções hash, explicando seu funcionamento, aplicações na autenticação de usuários, verificação da integridade de arquivos e técnicas utilizadas durante auditorias de segurança para identificação e análise de hashes.
-Objetivos
+
+# Objetivos
+
 Funções de hash e colisões
+
 O papel do hash em sistemas de autenticação
+
 Reconhecendo valores de hash armazenados
+
 Quebra de valores de hash
+
 O uso do hashing para integridade e proteção
 
 # Conceitos abordados
 
 Hash
+
 Algoritmos Hash (MD5, SHA-1, SHA-2, bcrypt)
+
 Quebra de hash (Hash Cracking)
+
 Wordlists
+
 Rainbow Tables
+
 Ferramentas utilizadas
+
 Terminal
+
 TryHackMe
+
 Hashcat
 
 # Comandos estudados
@@ -94,10 +108,15 @@ Também compreendi que as funções hash são essenciais em diversas atividades 
 As funções hash são amplamente utilizadas em ambientes corporativos para:
 
 Armazenamento seguro de senhas.
+
 Verificação da integridade de arquivos.
+
 Assinaturas digitais.
+
 Distribuição segura de imagens ISO.
+
 Auditorias de segurança.
+
 Resposta a incidentes.
 
 # Conclusão
