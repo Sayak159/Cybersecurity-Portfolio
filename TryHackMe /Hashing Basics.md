@@ -19,7 +19,8 @@ Ferramentas utilizadas
 Terminal
 TryHackMe
 Hashcat
-Comandos estudados
+
+# Comandos estudados
 
 # sha256sum
 
@@ -31,13 +32,17 @@ Descrição: Comando utilizado para identificar e comparar o hash SHA-256 de um 
 
 # less
 
+```
 less rockyou.txt
+```
 
 Descrição: É um visualizador de arquivos. Permite navegar para cima e para baixo, pesquisar palavras e visualizar arquivos grandes sem carregá-los completamente na tela.
 
 # Hashcat
 
+```
 hashcat -m 3200 -a 0 Hashing-Basics/Task-6/hash1.txt rockyou.txt
+```
 
 Descrição:
 
@@ -94,13 +99,3 @@ Este laboratório ampliou meu conhecimento sobre funções hash e sua relevânci
 
 # Referências
 TryHackMe – Hashing Basics
-
-
-
-
-```
-kayas
-├── 
-```
-
----
