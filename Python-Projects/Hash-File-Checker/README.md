@@ -1,8 +1,27 @@
 # Hash File Checker
 
+
+# Índice
+
+- Descrição
+- Funcionalidades
+- Tecnologias
+- Estrutura do Projeto
+- Como executar
+- Como o programa funciona
+- Exemplo de execução
+- Aprendizados
+- Aplicações práticas
+- Melhorias futuras
+- Conclusão
+
+
+
 ## Descrição
 
 Ferramenta desenvolvida em Python para calcular os hashes MD5 e SHA-256 de arquivos.
+
+
 
 ## Funcionalidades
 
@@ -16,20 +35,36 @@ Ferramenta desenvolvida em Python para calcular os hashes MD5 e SHA-256 de arqui
 - Python 3
 - hashlib
 
+## Estrutura do projeto
+
+```
+Hash-File-Checker
+│
+├── main.py
+├── README.md
+└── images
+    └── exemplo.png
+```
+
 ## Como executar
 
-main.py
+1. Clone o repositório.
 
-## Exemplo
+```bash
+git clone https://github.com/Sayak159/Cybersecurity-Portfolio.git
+```
 
-(imagem do programa)
+2. Entre na pasta do projeto.
 
-## Aprendizados
+```bash
+cd Python-Projects/Hash-File-Checker
+```
 
-- hashlib
-- funções
-- leitura de arquivos
-- tratamento de exceções
+3. Execute o programa.
+
+```bash
+python main.py
+```
 
 ## Como o programa funciona
 
@@ -41,14 +76,13 @@ import hashlib
 
 Importa a biblioteca responsável por gerar os hashes.
 
-
-## Função calcular_md5()
+## Função calcular_md5() 
 
 ```
-def calcular_md5(caminho_arquivo):
-````
+def calcular_md5(caminho_arquivo): 
+```
 
-Recebe o caminho do arquivo informado pelo usuário.
+Recebe o caminho do arquivo informado pelo usuário
 
 ## md5 = hashlib.md5()
 
@@ -82,9 +116,7 @@ Isso permite calcular o hash de qualquer tipo de arquivo:
 bloco = arquivo.read(4096)
 ````
 
-Em vez de carregar todo o arquivo na memória, o programa lê 4096 bytes por vez.
-
-Isso permite trabalhar até mesmo com arquivos muito grandes.
+A leitura em blocos de 4096 bytes evita carregar todo o arquivo para a memória RAM, permitindo que o programa processe arquivos grandes de maneira eficiente.
 
 Fluxo:
 
@@ -221,3 +253,38 @@ SHA-256
 
 44d88612fea8a8f36de82e1278abb02f...
 ```
+
+## Aprendizados
+
+Durante o desenvolvimento deste projeto aprendi:
+
+Como utilizar a biblioteca hashlib para gerar hashes MD5 e SHA-256.
+Como realizar leitura de arquivos em modo binário.
+Como utilizar funções para organizar o código.
+Como tratar exceções utilizando try e except.
+Como processar arquivos grandes realizando a leitura em blocos.
+Como organizar um projeto Python para publicação no GitHub.
+
+## Aplicações práticas
+
+Este tipo de ferramenta pode ser utilizado para:
+
+- Verificar a integridade de arquivos.
+- Confirmar se um download foi corrompido.
+- Comparar arquivos suspeitos durante análises forenses.
+- Validar evidências em investigações digitais.
+- Confirmar a autenticidade de imagens ISO disponibilizadas por fabricantes.
+
+## Melhorias futuras
+
+- Suporte ao SHA-1.
+- Suporte ao SHA-512.
+- Comparação entre dois arquivos.
+- Interface gráfica utilizando Tkinter.
+- Arrastar e soltar arquivos na janela.
+- Exportação do resultado para um arquivo TXT.
+
+## Conclusão
+
+Este projeto permitiu aplicar conceitos de manipulação de arquivos, funções, tratamento de exceções e algoritmos de hash utilizando Python. Além disso, reforçou conhecimentos sobre integridade de arquivos, tema amplamente utilizado na área de cibersegurança.
+
