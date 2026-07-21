@@ -1,8 +1,36 @@
-# Objetivo do projeto
+# Hash File Checker
 
-Desenvolver um programa em Python capaz de calcular o hash SHA-256 e o hash MD5 de qualquer arquivo informado pelo usuário.
+## Descrição
 
+Ferramenta desenvolvida em Python para calcular os hashes MD5 e SHA-256 de arquivos.
 
-# Descrição
+## Funcionalidades
 
-Esse tipo de ferramenta é utilizado para verificar a integridade de arquivos, validar downloads e comparar arquivos em atividades de administração de sistemas e segurança da informação.
+- Cálculo de MD5
+- Cálculo de SHA-256
+- Leitura de qualquer tipo de arquivo
+- Tratamento de erros
+
+## Tecnologias
+
+- Python 3
+- hashlib
+
+## Como executar
+
+main.py
+
+## Exemplo
+
+(imagem do programa)
+
+## Aprendizados
+
+- hashlib
+- funções
+- leitura de arquivos
+- tratamento de exceções
+
+  ## Como o programa funciona
+
+  
