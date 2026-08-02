@@ -194,8 +194,7 @@ Depois disso, transforma os dados em sinais físicos e os envia através de Cabo
 Durante a comunicação, cada camada adiciona suas próprias informações aos dados recebidos da camada anterior. Esse processo recebe o nome de encapsulamento. Quando a mensagem chega ao computador de destino, ocorre o processo inverso, chamado de desencapsulamento, em que cada camada remove as informações adicionadas anteriormente até que o conteúdo original seja entregue ao aplicativo.  
 
 
-
-```
+##
 O modelo TCP/IP é a base da comunicação na Internet. Sempre que enviamos uma mensagem, acessamos um site, assistimos a um vídeo ou realizamos um download, essas quatro camadas trabalham em conjunto para que a informação chegue corretamente ao destino. 
 
 Grande parte dos ataques e mecanismos de defesa em cibersegurança estão diretamente relacionados às camadas do modelo TCP/IP. Técnicas como sniffing, spoofing, ataques DoS, utilização de firewalls, VPNs e sistemas de detecção de intrusão exploram ou protegem diferentes camadas desse modelo. Por isso, compreender seu funcionamento é um dos primeiros passos para quem deseja atuar na área de segurança da informação. 
