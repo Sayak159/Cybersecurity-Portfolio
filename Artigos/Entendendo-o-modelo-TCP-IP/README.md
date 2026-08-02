@@ -40,11 +40,11 @@ Acesso a rede
 ``` 
 ├── Computador A              		       ├── Computador B   								 
 
-├── Aplicação    					                 ├──	Aplicação													 
+├── Aplicação    					            ├──	Aplicação													 
 
-├── Transporte					                    ├── Transporte									 
+├── Transporte					               ├── Transporte									 
 
-├── Internet						                     ├── Internet								  
+├── Internet						                ├── Internet								  
 
 ├── Acesso a rede	   > > > > > >	> >   ├── Acesso a rede  
 ``` 
