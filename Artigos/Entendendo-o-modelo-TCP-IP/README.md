@@ -73,12 +73,12 @@ Um exemplo da camada de aplicação, ao abrir um navegador e digitar
 
  ``` 
 
-www.google.com.br 
+www.google.com
 
 ``` 
 
  
-Somente após descobrir o endereço IP correspondente ao domínio através do protocolo DNS, que funciona como uma "lista telefônica" da Internet, convertendo nomes de domínio, como "www.google.com.br”, em endereços IP que os computadores conseguem compreender, o navegador poderá iniciar a comunicação com o servidor. 
+Somente após descobrir o endereço IP correspondente ao domínio através do protocolo DNS, que funciona como uma "lista telefônica" da Internet, convertendo nomes de domínio, como "www.google.com”, em endereços IP que os computadores conseguem compreender, o navegador poderá iniciar a comunicação com o servidor. 
 
 Agora ele prepara uma requisição HTTPS semelhante a: 
 
@@ -115,7 +115,7 @@ Você digitou:
 
 ``` 
 
-google.com.br
+google.com
 
 ``` 
 
