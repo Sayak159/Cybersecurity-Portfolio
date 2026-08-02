@@ -46,7 +46,7 @@ Acesso a rede
 
 ├── Internet						        ├── Internet								  
 
-├── Acesso a rede	   > > > > > >	> >    ├── Acesso a rede  
+├── Acesso a rede	   > > > > > >	> >     ├── Acesso a rede  
 ``` 
 
 O processo ocorre a partir do computador A, ao enviar uma mensagem ela irá passar na camada de aplicação, camada de transporte, camada de internet e acesso a rede, para o computador B, será ao reverso o processo. 
