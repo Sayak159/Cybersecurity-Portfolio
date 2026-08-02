@@ -44,7 +44,7 @@ Acesso a rede
 
 ├── Transporte					               ├── Transporte									 
 
-├── Internet						                ├── Internet								  
+├── Internet						          ├── Internet								  
 
 ├── Acesso a rede	   > > > > > >	> >   ├── Acesso a rede  
 ``` 
