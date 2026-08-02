@@ -1,8 +1,8 @@
+<h1 align="center">
 Título: Entendendo o Modelo TCP/IP 
-
+</h1>
  
-
- 
+ <p align="center">
 
 No artigo anterior vimos como uma mensagem consegue sair de um dispositivo e chegar a outro através da Internet. Entretanto, para que computadores de fabricantes diferentes consigam se comunicar, todos precisam seguir um mesmo conjunto de regras. Essas regras são definidas pelo conjunto de protocolos TCP/IP, que estabelece como os dados devem ser preparados, transportados e entregues através da rede. 
 
